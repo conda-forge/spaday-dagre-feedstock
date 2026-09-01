@@ -1,5 +1,5 @@
 context:
-  version: "0.1.0"
+  version: "0.2.3"
   python_min: "3.11"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/spaday-dagre/spaday_dagre-${{ version }}.tar.gz
-  sha256: bbc03a5bca092123d6d7668d1a90200b1e4751f130b9adcb75371a46ed5915e5
+  sha256: 7436a2bf3158e647fe9e3822cb78d9e510d019c5a28d4205fc9d91cdd01da1e7
 
 build:
   number: 0
